@@ -1,0 +1,20 @@
+User Country: New York Departure Date: 31-10-2014 Return Date: 20-04-2022
+User Country: Canada Departure Date: 22-04-1996 Return Date: 15-11-1995
+User Country: Costa Rica Departure Date: 29-08-2024 Return Date: 14-11-2024
+User Country: Italia Departure Date: 25-11-2005 Return Date: 22-07-1999
+User Country: Francia Departure Date: 12-06-2014 Return Date: 20-03-2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
